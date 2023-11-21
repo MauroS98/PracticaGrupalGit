@@ -1,6 +1,8 @@
 # PracticaGrupalGit
 Mathias Saravia , 19 , Buenos Aires
+Mauro Suarez, 24, Tigre-Buenos aires 
 Gastón Castillo
-Samuel Barrios
+samuel barrios
 Matías Darío Cotelo
 Mauro Suarez 
+
