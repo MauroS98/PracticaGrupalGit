@@ -8,3 +8,7 @@ Mathias Saravia
 Samuel Barrios
 Matías Darío Cotelo
 Mauro Suarez 
+Mauro Suarez, 24, Tigre-Buenos aires 
+Gastón Castillo
+samuel barrios
+Matías Darío Cotelo, 29 años, Buenos Aires.
