@@ -1,7 +1,9 @@
 # PracticaGrupalGit
-Mathias Saravia
+Mathias Saravia 
 Gastón Castillo
-samuel barrios
+### Nombre: Samuel Barrios
+### Edad : 28
+### Ciudad: CABA
 Matías Darío Cotelo
 Mauro Suarez 
 
