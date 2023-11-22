@@ -7,7 +7,7 @@ const app = express();
 app.listen(3030, () => console.log("Server running in 3030 port"));
 
 const heroes = JSON.parse(
-  fs.readFileSync(__dirname + "/data/heroes.json", "utf-8")
+  fs.readFileSync(__dirname + "/heroes.json", "utf-8")
 );
 
 app.get("/", function (req, res) {
